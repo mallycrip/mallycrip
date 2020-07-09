@@ -1,4 +1,4 @@
-## 🌱 I’m currently learning to write better code 🤔<br/>
+# 🌱 I’m currently learning to write better code 🤔<br/>
 
 ### 🌌 Language
 - Python
