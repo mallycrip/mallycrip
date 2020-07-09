@@ -1,3 +1,2 @@
 ### Hi 👋
-
-- 🌱 I’m currently learning how to make a good code 🤔
+🌱 I’m currently learning how to make a good code 🤔<br/>
