@@ -5,6 +5,7 @@
 - Java
 - Kotlin
 - TypeScript (newbie)
+- Scala (newbie)
 
 ### 🚀 interested in
 - Devops
