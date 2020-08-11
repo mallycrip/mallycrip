@@ -1,1 +1,1 @@
-![weeknd](https://variancemagazine.com/images/the-weeknd-59302.jpg)
+![](https://i.ytimg.com/vi/Y66IMctJJcc/maxresdefault.jpg)
