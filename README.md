@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xN5sOQIk3GWL2YrKvDoDedE_nXxQS27HM4AvaHnleWNPoU4HMlNq3UsHYFgPrjgTsEBYXRAi0qg37k">](https://music.youtube.com/watch?v=p9dKmI0IWHU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xN5sOQIk3GWL2YrKvDoDedE_nXxQS27HM4AvaHnleWNPoU4HMlNq3UsHYFgPrjgTsEBYXRAi0qg37k">](https://music.youtube.com/watch?v=cNUip3RNTa8)
 
-Kid Milli 및 dress - Face & Mask(피처링: ron)
+Kid Milli 및 dress - Intro
 
 **Albums**: Cliché
 
-Last updated at 06/03/2021 14:57
+Last updated at 06/03/2021 15:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
