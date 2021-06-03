@@ -1,11 +1,11 @@
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xN5sOQIk3GWL2YrKvDoDedE_nXxQS27HM4AvaHnleWNPoU4HMlNq3UsHYFgPrjgTsEBYXRAi0qg37k">](https://music.youtube.com/watch?v=cNUip3RNTa8)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnjqN9qeOSsYzL_CDsXafQI3HA_424LHA6CMZfSJSg=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCf5MIIjpO1g6igv4WdUbdYg)
 
-Kid Milli 및 dress - Intro
+pH-1 - 사인회 MEET N GREET (feat. Kid Milli) (prod. GroovyRoom)
 
-**Albums**: Cliché
+**Albums**: Not supported
 
-Last updated at 06/03/2021 17:49
+Last updated at 06/03/2021 20:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
