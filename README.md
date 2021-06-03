@@ -1,11 +1,11 @@
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnjqN9qeOSsYzL_CDsXafQI3HA_424LHA6CMZfSJSg=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCf5MIIjpO1g6igv4WdUbdYg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">](https://music.youtube.com/watch?v=TJCIMsxT_O8)
 
-pH-1 - 사인회 MEET N GREET (feat. Kid Milli) (prod. GroovyRoom)
+pH-1 - 사인회(피처링: 키드밀리)
 
-**Albums**: Not supported
+**Albums**: X
 
-Last updated at 06/03/2021 20:16
+Last updated at 06/03/2021 20:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
