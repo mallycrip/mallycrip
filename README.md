@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2NFIhcTHGQYItq_EYS4CYAz5lT4pQdUF7f6s8ulUQgZ8IPz8I3ni0KWY-2hi0BckhGtEBg1GeRBqqnA">](https://music.youtube.com/watch?v=IprknYHxodU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AE51lXX0bODdXJFtlgnkvrtOAUE2mz-v3zCR8TubW90leHdLpJL-srgg6jGgeCTYC77ijmjG63LKYfU">](https://music.youtube.com/watch?v=sReSVIdroGQ)
 
-스월비 - Mama Lisa
+Lil Nas X - MONTERO: Call Me By Your Name (SATAN'S EXTENDED VERSION)
 
-**Albums**: Undercover Angel
+**Albums**: MONTERO: Call Me By Your Name
 
-Last updated at 06/09/2021 14:19
+Last updated at 06/09/2021 14:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
