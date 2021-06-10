@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/71Ur0P4AJrEXAT7z1s-EP9fXMbIUfh5m9AUqkykCh4ZBvkTKzIoxH0BKlshkpSWrh6rqhvGKe809zBYQpQ">](https://music.youtube.com/watch?v=wdcxacN5y7M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">](https://music.youtube.com/watch?v=0rMpLuZElYk)
 
-Mokyo - Kontrol
+키드밀리 - AI
 
-**Albums**: accent fried
+**Albums**: AI, THE PLAYLIST
 
-Last updated at 06/10/2021 17:19
+Last updated at 06/10/2021 20:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
