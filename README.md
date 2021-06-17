@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">](https://music.youtube.com/watch?v=pc-2dthx_bc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">](https://music.youtube.com/watch?v=KiXTOXHAKyQ)
 
-키드밀리 - GIVE ME SOMETHING(피처링: DSEL)
+퓨처리스틱 스웨버 - Can't Feel(피처링: PAAD, zzuno だいすき)
 
-**Albums**: AI, THE PLAYLIST
+**Albums**: YFGOD
 
-Last updated at 06/10/2021 20:28
+Last updated at 06/18/2021 08:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
