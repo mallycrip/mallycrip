@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">](https://music.youtube.com/watch?v=TJCIMsxT_O8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zOBq0wziHuA_UNof32HZTYprJJIv75saDXbPOZLYrTw95HBl_JWw7_8XMHuAZGlgOVh9fpFZ1pJnp2w">](https://music.youtube.com/watch?v=l9YM1TsL9t8)
 
-pH-1 - 사인회(피처링: 키드밀리)
+millic (밀릭) Millic - PARADISE(피처링: FANXYCHILD)
 
-**Albums**: X
+**Albums**: VIDA
 
-Last updated at 06/18/2021 08:25
+Last updated at 06/18/2021 08:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
