@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">](https://music.youtube.com/watch?v=KiXTOXHAKyQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/71Ur0P4AJrEXAT7z1s-EP9fXMbIUfh5m9AUqkykCh4ZBvkTKzIoxH0BKlshkpSWrh6rqhvGKe809zBYQpQ">](https://music.youtube.com/watch?v=sKmNnDZCmoo)
 
-퓨처리스틱 스웨버 - Can't Feel(피처링: PAAD, zzuno だいすき)
+Mokyo - paranoid(피처링: DEAN(딘))
 
-**Albums**: YFGOD
+**Albums**: accent fried
 
-Last updated at 06/18/2021 08:36
+Last updated at 06/18/2021 08:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
