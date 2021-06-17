@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zOBq0wziHuA_UNof32HZTYprJJIv75saDXbPOZLYrTw95HBl_JWw7_8XMHuAZGlgOVh9fpFZ1pJnp2w">](https://music.youtube.com/watch?v=l9YM1TsL9t8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/81T4dyg910Y/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=81T4dyg910Y)
 
-millic (밀릭) Millic - PARADISE(피처링: FANXYCHILD)
+onceagain2002 - Dynamic Duo - 이력서/Resume (W/ Lyrics)
 
-**Albums**: VIDA
+**Albums**: 조회수 40만회
 
-Last updated at 06/18/2021 08:27
+Last updated at 06/18/2021 08:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
