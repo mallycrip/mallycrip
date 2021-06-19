@@ -1,11 +1,11 @@
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/71Ur0P4AJrEXAT7z1s-EP9fXMbIUfh5m9AUqkykCh4ZBvkTKzIoxH0BKlshkpSWrh6rqhvGKe809zBYQpQ">](https://music.youtube.com/watch?v=wdcxacN5y7M)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnjqN9qeOSsYzL_CDsXafQI3HA_424LHA6CMZfSJSg=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCf5MIIjpO1g6igv4WdUbdYg)
 
-Mokyo - Kontrol
+pH-1 - 사인회 MEET N GREET (feat. Kid Milli) (prod. GroovyRoom)
 
-**Albums**: accent fried
+**Albums**: Not supported
 
-Last updated at 06/18/2021 10:20
+Last updated at 06/19/2021 23:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
