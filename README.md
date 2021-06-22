@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xRgBTwr6aixDFVxEHdcG86lszYiI_lF2Bg5zWHMm13Xk0XVPhK5b7OuKxnuRteZPPaHHH7CN6G9rkBAW">](https://music.youtube.com/watch?v=3sQaeI-2A5k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ka9NUHjUOWXtDDG8bAzn-cnUUY05g7pINtpnGr02S9is27p_2MPi0nSq3oJ4I5gxnluLEibAk_VbLhc2">](https://music.youtube.com/watch?v=n0wdeMfg9qM)
 
-Tommy Strate - siri
+Tommy Strate - replay
 
-**Albums**: lets jus7
+**Albums**: replay
 
-Last updated at 06/22/2021 14:12
+Last updated at 06/22/2021 14:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
