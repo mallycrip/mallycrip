@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nmBQiq1-b5G7Q9D-GbXrQzACw0L7pUeaAkAKya6HMDFGa-McloEVHD3M6aXETel_Q0UZObL_4d07r_qapQ">](https://music.youtube.com/watch?v=s3b7sGaf5X0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xRgBTwr6aixDFVxEHdcG86lszYiI_lF2Bg5zWHMm13Xk0XVPhK5b7OuKxnuRteZPPaHHH7CN6G9rkBAW">](https://music.youtube.com/watch?v=3sQaeI-2A5k)
 
-Tommy Strate - Identity
+Tommy Strate - siri
 
-**Albums**: NEVERMIND, VOL. 3: 2rucolors
+**Albums**: lets jus7
 
-Last updated at 06/22/2021 14:08
+Last updated at 06/22/2021 14:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
