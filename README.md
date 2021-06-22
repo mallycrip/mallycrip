@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8WOeMO-M7wM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8WOeMO-M7wM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VHu10HH5jYuQjBwUHNUmzcZ30vTovYNG1iUmYna33l7Z8k96Ams0fIwqdh3D7v8C1Az24bNCUXqxL_M">](https://music.youtube.com/watch?v=Z191mRvNGko)
 
-스머글러스 - IMEANSEOUL - Toronto feat. Tommy Strate, Don Mills (Official Music Video) (Dir. by @maria.paak)
+Tommy Strate 및 GOLDBUUDA - Watch It Go
 
-**Albums**: 조회수 5.4천회
+**Albums**: BUUDA FLAME
 
-Last updated at 06/22/2021 20:00
+Last updated at 06/22/2021 20:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
