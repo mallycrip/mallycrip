@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hIs7CIx-RSDXivPYVdkT2bhpGsZIT1icQohh87M-lvM4qOFOrLMVgjlgWvzqezEOsjjnoRN1zkVIYyJp">](https://music.youtube.com/watch?v=9HTmA-eMSec)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VHu10HH5jYuQjBwUHNUmzcZ30vTovYNG1iUmYna33l7Z8k96Ams0fIwqdh3D7v8C1Az24bNCUXqxL_M">](https://music.youtube.com/watch?v=e_FPkQ_vVZk)
 
-IMEANSEOUL - Toronto(피처링: Tommy Strate, Don Mills)
+Tommy Strate 및 GOLDBUUDA - She Gon Fight(피처링: 디보)
 
-**Albums**: Toronto (Feat. Tommy Strate, Don Mills)
+**Albums**: BUUDA FLAME
 
-Last updated at 06/22/2021 11:49
+Last updated at 06/22/2021 11:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
