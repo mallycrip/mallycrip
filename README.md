@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ka9NUHjUOWXtDDG8bAzn-cnUUY05g7pINtpnGr02S9is27p_2MPi0nSq3oJ4I5gxnluLEibAk_VbLhc2">](https://music.youtube.com/watch?v=wdj5DpCjSQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/238EJhCYAN0vSyjuLDxYgGybzB9JMKa1AMQb6k-DA7Q0l8DK5YtB6P9sY2CwWgE80-VG8tFw_xLXtz3M">](https://music.youtube.com/watch?v=e6CeSlUUSxQ)
 
-Tommy Strate - plan
+Tommy Strate - One summer night
 
-**Albums**: replay
+**Albums**: Tommy, Pt. 2
 
-Last updated at 06/22/2021 14:00
+Last updated at 06/22/2021 14:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
