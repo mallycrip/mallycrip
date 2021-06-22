@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/238EJhCYAN0vSyjuLDxYgGybzB9JMKa1AMQb6k-DA7Q0l8DK5YtB6P9sY2CwWgE80-VG8tFw_xLXtz3M">](https://music.youtube.com/watch?v=n0IPJ6E6rfU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wFeR4nCyv6iQUImj_15i6ZLDCAQ3lqrnwzruTurPUT1tR6X59DdF-WszNlqdVhzNJqAsUZhsCX602sGV">](https://music.youtube.com/watch?v=PATD0hkZLNM)
 
-Tommy Strate - put her
+Tommy Strate - 담아(god play) (Prod.Tommy $trate)
 
-**Albums**: Tommy, Pt. 2
+**Albums**: 담아(god play)
 
-Last updated at 06/22/2021 13:54
+Last updated at 06/22/2021 13:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
