@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9eQVAgAM0evpwB_d4Sxt2uTy5fH_SE_5tulS-rF7oZtOGJizrmlfSM_OsDrRDjYn6qqvjsp9cVWT8tTD">](https://music.youtube.com/watch?v=irRMEvFhknM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/q6iLl7ep27s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=q6iLl7ep27s)
 
-sAewoo (세우) - Whistle (With Tommy Strate)(피처링: Tommy Strate)
+Lil Tube - GOLDBUUDA & Tommy Strate - She Gon Fight (feat. Dbo) [Official Music Video] (SUB ENG/KOR)
 
-**Albums**: 어른들은 몰라요 OST
+**Albums**: 조회수 3.3만회
 
-Last updated at 06/22/2021 19:56
+Last updated at 06/22/2021 19:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
