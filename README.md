@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/75CcZ5ocFp935EWjobw7p-RYW5Jn1FLZU8aGog88LsDS5ZmvcTLMTjS7NYM8ccK8BC4bUTns3m0GzC3qMA">](https://music.youtube.com/watch?v=5eZoFWAg630)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9eQVAgAM0evpwB_d4Sxt2uTy5fH_SE_5tulS-rF7oZtOGJizrmlfSM_OsDrRDjYn6qqvjsp9cVWT8tTD">](https://music.youtube.com/watch?v=irRMEvFhknM)
 
-Tommy Strate - August
+sAewoo (세우) - Whistle (With Tommy Strate)(피처링: Tommy Strate)
 
-**Albums**: August
+**Albums**: 어른들은 몰라요 OST
 
-Last updated at 06/22/2021 19:54
+Last updated at 06/22/2021 19:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
