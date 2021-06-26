@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">](https://music.youtube.com/watch?v=J0FB3EPTAnI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/W4TV0Sm73TA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=W4TV0Sm73TA)
 
-키드밀리, Tommy Strate, JUSTHIS 및 Lil Tachi - BOY Remix
+랄로 한접시 - [이재석 플레이리스트] 1~4편 플레이리스트 통합본 (K-ON's Playlist Compilation)
 
-**Albums**: BEIGE 0.5
+**Albums**: 조회수 6만회
 
-Last updated at 06/22/2021 20:03
+Last updated at 06/26/2021 21:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
