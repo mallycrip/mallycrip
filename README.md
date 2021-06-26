@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xN5sOQIk3GWL2YrKvDoDedE_nXxQS27HM4AvaHnleWNPoU4HMlNq3UsHYFgPrjgTsEBYXRAi0qg37k">](https://music.youtube.com/watch?v=GfmlCNFnpVc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/M5uUlPrHSAA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=M5uUlPrHSAA)
 
-Kid Milli 및 dress - V I S I O N 2021(피처링: ron)
+랄로 한접시 - [이재석 1시간 플레이리스트] 이슬만 먹고 자라는 당신들을 위한 1시간컽 이재석 노래 플레이리스트 #2 (K-ON's Playlist)
 
-**Albums**: Cliché
+**Albums**: 조회수 19만회
 
-Last updated at 06/26/2021 22:02
+Last updated at 06/26/2021 22:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
