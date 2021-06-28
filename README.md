@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">](https://music.youtube.com/watch?v=TJCIMsxT_O8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">](https://music.youtube.com/watch?v=KiXTOXHAKyQ)
 
-pH-1 - 사인회(피처링: 키드밀리)
+퓨처리스틱 스웨버 - Can't Feel(피처링: PAAD, zzuno だいすき)
 
-**Albums**: X
+**Albums**: YFGOD
 
-Last updated at 06/27/2021 01:30
+Last updated at 06/28/2021 12:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
