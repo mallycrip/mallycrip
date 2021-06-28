@@ -1,11 +1,11 @@
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hIs7CIx-RSDXivPYVdkT2bhpGsZIT1icQohh87M-lvM4qOFOrLMVgjlgWvzqezEOsjjnoRN1zkVIYyJp">](https://music.youtube.com/watch?v=9HTmA-eMSec)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AKedOLT8lmVZjud2giX8mAI81iEJX-QLNeTv4YZWLbs=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCkl4OIrV43TzjWXYBo9zRdQ)
 
-IMEANSEOUL - Toronto(피처링: Tommy Strate, Don Mills)
+Ben Lapps - Phunkdified (Justin King)
 
-**Albums**: Toronto (Feat. Tommy Strate, Don Mills)
+**Albums**: Not supported
 
-Last updated at 06/28/2021 14:53
+Last updated at 06/28/2021 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
