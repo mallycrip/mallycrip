@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hIs7CIx-RSDXivPYVdkT2bhpGsZIT1icQohh87M-lvM4qOFOrLMVgjlgWvzqezEOsjjnoRN1zkVIYyJp">](https://music.youtube.com/watch?v=9HTmA-eMSec)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">](https://music.youtube.com/watch?v=KiXTOXHAKyQ)
 
-IMEANSEOUL - Toronto(피처링: Tommy Strate, Don Mills)
+퓨처리스틱 스웨버 - Can't Feel(피처링: PAAD, zzuno だいすき)
 
-**Albums**: Toronto (Feat. Tommy Strate, Don Mills)
+**Albums**: YFGOD
 
-Last updated at 06/28/2021 14:43
+Last updated at 06/28/2021 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
