@@ -1,11 +1,11 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">](https://music.youtube.com/watch?v=TJCIMsxT_O8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VHu10HH5jYuQjBwUHNUmzcZ30vTovYNG1iUmYna33l7Z8k96Ams0fIwqdh3D7v8C1Az24bNCUXqxL_M">](https://music.youtube.com/watch?v=e_FPkQ_vVZk)
 
-pH-1 - 사인회(피처링: 키드밀리)
+Tommy Strate 및 GOLDBUUDA - She Gon Fight(피처링: 디보)
 
-**Albums**: X
+**Albums**: BUUDA FLAME
 
-Last updated at 06/28/2021 14:49
+Last updated at 06/28/2021 14:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
