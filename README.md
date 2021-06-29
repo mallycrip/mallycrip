@@ -1,11 +1,11 @@
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AKedOLT57BJTMRcykx2DNV3xc92KiO3g2cUbrllL_RqSdA=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjWRi2qaGtKjQyoQLc4OGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hIs7CIx-RSDXivPYVdkT2bhpGsZIT1icQohh87M-lvM4qOFOrLMVgjlgWvzqezEOsjjnoRN1zkVIYyJp">](https://music.youtube.com/watch?v=9HTmA-eMSec)
 
-Sungha Jung - (Mason Williams) Classical Gas – Sungha Jung
+IMEANSEOUL - Toronto(피처링: Tommy Strate, Don Mills)
 
-**Albums**: Not supported
+**Albums**: Toronto (Feat. Tommy Strate, Don Mills)
 
-Last updated at 06/28/2021 16:19
+Last updated at 06/29/2021 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
