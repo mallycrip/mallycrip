@@ -1,11 +1,11 @@
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AKedOLRNRHGZDYEumdyK63UpBsGiK21I4qHvoZc_DwP9Gw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCNrt9K6S6nLuWFPy89ryJ5Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tTJTNfj3wYDRxUPvDt17qVcsZaEkdVuTkg3TPapqxhCeLcwCtqDRAb-KDI8pbocu0tPnFHHFaoOeBQwOtw">](https://music.youtube.com/watch?v=q-9IAiMn3pU)
 
-Mokyo - kyobi ( Official Video )
+Mokyo - hold
 
-**Albums**: Not supported
+**Albums**: hold
 
-Last updated at 07/04/2021 14:03
+Last updated at 07/05/2021 09:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
